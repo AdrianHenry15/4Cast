@@ -13,7 +13,7 @@ var searchCityForm = $("#searchCityForm");
 var searchedCities = $("#searchedCityLi");
 // Get weather info from OpenWeather starts here
 var getCityWeather = function (searchCityName) {
-    // Formate the OpenWeather api url
+    // Format the OpenWeather api url
     var apiUrl =
         dailyWeatherApiStarts + searchCityName + "&" + personalAPIKey + "&" + unit;
     // Make a request to url
@@ -74,7 +74,7 @@ var getUVIndex = function (lat, lon) {
         });
 };
 var getForecast = function (lat, lon) {
-    // Formate the OpenWeather api url
+    // Format the OpenWeather api url
     var apiUrl =
         forecastWeatherApiStarts +
         "lat=" +
