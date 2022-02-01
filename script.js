@@ -1,7 +1,7 @@
 // Set global variables
 var citiesListArr = [];
 var numOfCities = 9;
-var personalAPIKey = "appid=264dbcaa3899de05eeadc78d68ba06dc";
+var personalAPIKey = "appid=7146bfe32a294fc2979b70219212c7a2";
 var unit = "units=imperial";
 var dailyWeatherApiStarts =
     "https://api.openweathermap.org/data/2.5/weather?q=";
