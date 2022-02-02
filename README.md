@@ -13,9 +13,9 @@ The purpose of this project is to provide a traveler with the weather outlook fo
 
 **Links**
 
-[Code Repository]()
+[Code Repository](https://github.com/AdrianHenry15/4Cast)
 
-[4Cast Website]()
+[4Cast Website](https://adrianhenry15.github.io/4Cast/)
 
 # Installation
 Upload index.html
